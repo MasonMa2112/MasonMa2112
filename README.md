@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @MasonMa2112 (Mason)
-- 🌱 I’m currently learning Information Technology
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like playing League of Legends
+- 👋 Hi! I'm Mason
+- I’m currently learning Information Technology at RMIT University Vietnam.
+- I specializes in Cyber Security, particularly in cyber forensics.
 
 <!---
 MasonMa2112/MasonMa2112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
